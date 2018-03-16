@@ -12,6 +12,3 @@ an (integer)
 \description{
 Title
 }
-\examples{
-55
-}
