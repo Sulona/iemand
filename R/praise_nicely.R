@@ -7,5 +7,5 @@
 
 
 praise_nicely <- function (name){
-  praise::praise(template = paste0(name, " is ${adjective}"))
+  praise::praise(template = paste0(name, "  is ${adjective}"))
   }
