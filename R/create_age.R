@@ -2,10 +2,10 @@
 
 #' Title
 #'
-#' @return
+#' @return an (integer)
 #' @export
 #'
-#' @examples
+#' @examples 55
 create_age <-function(){
   age=sample(1:100,size=1)
   return(age)
