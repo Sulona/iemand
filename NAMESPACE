@@ -2,4 +2,3 @@
 
 export(create_age)
 export(praise_nicely)
-importFrom(magrittr,"%>%")
